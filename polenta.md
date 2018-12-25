@@ -1,13 +1,27 @@
-# Polenta - Creamy
+# Polenta
 
 ## Ingredients
 
- * 4 cups water
- * 1 teaspoon salt
- * 1 cup polenta or yellow cornmeal
- * 1/4 cup (1/2 stick) butter
- * 1/2 cup grated Parmesan cheese
-
+ - 4 cups water (960 g)
+ - 1 teaspoon salt
+ - 1 cup polenta (140 g)
+ - 2 tablespoon butter
+ - 1/2 cup finely grated Parmigiano
+ 
 ## Directions
 
-Bring 4 cups water and 1 teaspoon salt to boil in heavy large saucepan. Gradually whisk in polenta; whisk constantly until mixture is smooth and begins to thicken. Reduce heat to medium-low and cook until tender and thickened but still creamy, stirring often, about 30 minutes. Stir in butter and Parmesan cheese. Season to taste with salt and pepper.
+ - Bring water and salt to boil
+ - Whisk in polenta as you poor it in
+ - Turn heat to low and continue to shisk until just starts to thicken (low simmer with little bubbles)
+ - Cover for 30 minutes - stir every 5-6 minutes.  (Myth - no need to stir non-stop)
+   - eventually switch to wooden spoon
+ - Taste at 30 minutes (Jason Bourne of your groung corn)
+ - Turn off heat
+   - Stir in butter
+   - Stir in parmesan cheese
+   - Cover and let sit for 5 minutes
+   
+## Reference
+
+ - https://foodwishes.blogspot.com/2013/09/perfect-polenta-dedicated-to-some-fun.html
+ - https://www.youtube.com/watch?v=jE2NemX-FO4
