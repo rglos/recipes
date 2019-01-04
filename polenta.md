@@ -2,11 +2,17 @@
 
 ## Ingredients
 
+Makes 4 servings
+
  - 4 cups water (960 g)
  - 1 teaspoon salt
  - 1 cup polenta (140 g)
  - 2 tablespoon butter
- - 1/2 cup finely grated Parmigiano
+ - 1/2 cup finely grated Parmigiano (75 g)
+ 
+ For 6 servings (or 3 super hungry folks)
+ 
+ 1440g, 1.5 tspn, 210g polenta,  3 tbspn butter, 112g Parmigiano
  
 ## Directions
 
