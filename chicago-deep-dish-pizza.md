@@ -54,7 +54,7 @@ Add sliced mozzarella.
 
 Add sausage.
 
-Add Sauce - optinally add 2 teaspoons of salt to sause
+Add Sauce - optinally add 1 teaspoons of salt to sause
  
 
 Cook 15 min then turn 180 degrees and cook another 10
