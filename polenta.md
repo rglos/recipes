@@ -12,7 +12,11 @@ Makes 4 servings
  
  For 6 servings (or 3 super hungry folks)
  
- 1440g, 1.5 tspn, 210g polenta,  3 tbspn butter, 112g Parmigiano
+ - 6 cups water (1440 g)
+ - 1.5 teaspoon salt
+ - 1.5 cup polenta (210 g)
+ - 3 tablespoon butter
+ - 3/4 cup finely grated Parmigiano (112 g)
  
 ## Directions
 
@@ -21,7 +25,7 @@ Makes 4 servings
  - Turn heat to low and continue to shisk until just starts to thicken (low simmer with little bubbles)
  - Cover for 30 minutes - stir every 5-6 minutes.  (Myth - no need to stir non-stop)
    - eventually switch to wooden spoon
- - Taste at 30 minutes (Jason Bourne of your groung corn)
+ - Taste at 30 minutes (you are the Jason Bourne, of your ground corn)
  - Turn off heat
    - Stir in butter
    - Stir in parmesan cheese
