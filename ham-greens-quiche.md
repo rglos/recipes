@@ -7,7 +7,7 @@
  - 1 + 1/4 cups chopped Swiss chard
  - 1/2 teaspoon salt
  - 1/2 teaspoon pepper
- - 1/2 cup of diced ham or lamb, depending on preference
+ - 1/2 cup of diced ham or lamb, depending on preference (75 g)
  - 4 eggs
  - 1 + 1/4 cups whipping cream
  - 1 generous pinch nutmeg
