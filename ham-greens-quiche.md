@@ -12,7 +12,7 @@
  - 1 + 1/4 cups whipping cream
  - 1 generous pinch nutmeg
  - one 9” pie shell
- - 1 cup grated swiss cheese
+ - 1 cup grated swiss cheese (100g)
  
  ## Directions
  
