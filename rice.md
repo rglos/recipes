@@ -3,12 +3,31 @@
 ## Instapot Rice
 
 ### Ingredients
- - 3 cups white rice (675g)
+ - 3 cups white rice (225g each - so 675g)
  - 1/4 cup olive oil (60g)
  - 3 cups broth (720g)
 
 ### Directions
 Pour rice into pot.  our in olive oil and stir until rice is  thoroughly coated with oil.  Add broth or water and any desired seasoning.
+
+## Alton Brown Rice
+
+Uses stovetop and pre-boiled water.
+
+ - Alton Brown rice idea - https://www.youtube.com/watch?v=9Qe-7tuMOIY
+
+## Baked Rice
+
+The "foolproof" method for making long grain/jasmine/basmati I learned involves baking it.  The base ratio is scalable, so you can make as much or as little as you want.  You can also adjust the salt and fat to taste, as well as add in any flavor enhancers that strike your fancy with ease.
+
+### Ingredients
+- 1 cup rice
+- 2 cups boiling water
+- 1 tsp salt
+- 2 Tbsp butter
+
+
+In an oven-safe casserole dish add the rice, salt, and butter.  Pour on the boiling water and stir briefly to get the salt and any other additives distributed evenly.  Cover and bake at 350°F for 25 minutes.  Remove the lid and bake for another 5 minutes, then remove from the oven and enjoy!  If you prefer your rice stickier, reduce the fat and/or cook covered for the full 30 minutes.
 
 ## Baked Rice and Beans
 
