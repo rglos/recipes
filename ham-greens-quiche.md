@@ -9,7 +9,7 @@
  - 1/2 teaspoon pepper
  - 1/2 cup of diced ham or lamb, depending on preference (75 g)
  - 4 eggs
- - 1 + 1/4 cups whipping cream
+ - 1 + 1/4 cups whipping cream (makes a difference over whole milk)
  - 1 generous pinch nutmeg
  - one 9” pie shell
  - 1 cup grated swiss cheese (100g)
