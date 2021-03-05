@@ -1,4 +1,6 @@
-# Chermoula
+# Moroccan Chicken Stew
+
+## Chermoula
 
 - 1/2 tablespoon cumin seeds
 - 1/2 tablespoon coriander seeds
@@ -11,7 +13,7 @@
 - 1 1/2 teaspoons coarse kosher salt
 - Zest of 1 lemon
 
-Stew
+## Stew
 
 - 1 small (2-pound) chicken, divided into 8 pieces
 - 1/2 cup flour
