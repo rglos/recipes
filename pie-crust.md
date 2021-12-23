@@ -5,7 +5,7 @@ Make a double batch of this, and freeze the individually wrapped dough for futur
 ## Ingredients
 
 - 2 1/2 cups flour (340g)
-- 1 cup unsalted butter - chilled, cut into tablespoon size pieces (1 stick / 227g)
+- 1 cup unsalted butter - chilled, cut into tablespoon size pieces (1 stick / 227g) - after cutting into pieces, freeze
 - 1/2 teaspoon salt
 - 7 tablespoons ice water (105g)
 - 1 tablespoon cider vinegar (15g)
