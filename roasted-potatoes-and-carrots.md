@@ -18,3 +18,7 @@ Preheat the oven to 400 degrees F, 375 convection. Place  a on rimmed baking she
 In a bowl place the carrots and potatoes. Drizzle with the olive oil and honey, then sprinkle with cumin, smoked paprika, and salt. Toss to coat, then spread into a single layer on sheet.
 
 Bake in the until vegetables are browned in spots and tender when pierced with a small, sharp knife, about 25 to 30 minutes, tossing halfway through. 
+
+## Reference
+
+- https://www.wellplated.com/roasted-potatoes-and-carrots/
