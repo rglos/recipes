@@ -29,7 +29,6 @@
 
 ## Directions
 
-- Preheat oven to 425 - no convection, we don't want ot burn the exposed crust.
 - Prep meat.  Cook sausage in patties to spread over pizza or crumble (add onions, mushrooms, bell peppers, etc as desired).
 - Oil (olive) a 12 inch cast iron skillet
 - Form dough using heel of hand and make a circle.
@@ -40,9 +39,10 @@
 
 ## Cooking
 
+- Preheat oven to 425 - no convection, we don't want to burn the exposed crust.
 - Should take about 35-45 minutes to cook the crust nicely.
 - Cook 15 min then turn 180 degrees and cook another 15
 - Cook another 10 as desired - that's you cooking
-- Pull out pizza, switch to oven broil, sprinkle parmesian cheese over top
+- Pull out pizza, switch to oven broil, sprinkle parmesan cheese over top
 - Move pizza to broil height for a few minutes
 - Cool 10 minutes and slice to serve
