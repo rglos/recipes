@@ -21,5 +21,18 @@ Remove macaroni from heat. Add butter, olive oil, and black pepper.
 
 Add cheese mixture and stir to melt. Add low heat if needed to finish melting. Taste for seasoning & add additional salt if needed. 
 
+Amounts adjusted for portions
+| ingredient | 100% | 150% | 200% |
+| --- | --- | --- | --- |
+| water | 525g | 787.5g | 1050g |
+| milk | 225g | 337.5g | 450g |
+| pasta | 225g | 337.5g | 450g |
+| salt | 1 tsp | 1.5 tsp | 2 tsp |
+| monterrey jack | 100g | 150g | 200g |
+| pecorino | 1.5 tbsp | 2.25 tbsp | 3 tbsp  |
+| corn startch | 100g | 150g | 200g |
+| butter | 50g | 75g | 100g |
+
+
 ## Reference
 - https://www.youtube.com/watch?v=SINalrmwCcE&t=53s
