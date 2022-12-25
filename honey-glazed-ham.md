@@ -5,7 +5,7 @@
  - 6-9 lb ham - [Tails and Trotters Applewood Smoked](https://tailsandtrotters.com/collections/hams)
  - Glaze
    - 1 cup packed brown sugar (200g)
-   - 1/4 cup honey (60g)
+   - 1/4 cup honey (85g)
    - 2 tbsp mustard (Dijon, Stone-Ground, etc)
    - 2 tbsp vinegar (Apple Cider, rice, any)
    - 1 1/2 tsp black pepper
