@@ -22,7 +22,7 @@ Makes 4 servings
 
  - Bring water and salt to boil
  - Whisk in polenta as you poor it in
- - Turn heat to low and continue to shisk until just starts to thicken (low simmer with little bubbles)
+ - Turn heat to low and continue to whisk until just starts to thicken (low simmer with little bubbles)
  - Cover for 30 minutes - stir every 5-6 minutes.  (Myth - no need to stir non-stop)
    - eventually switch to wooden spoon
  - Taste at 30 minutes (you are the Jason Bourne, of your ground corn)
