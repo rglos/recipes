@@ -1,14 +1,14 @@
 # Almond Saffron Dip
 
 - Pinch saffron
-- 1 tablespoon boiling water
-- 1/4 cup sliced almonds
-- 2 tablespoons olive oil
-- 1 small onion, chopped
+- 1 tablespoon (15g) boiling water
+- 1/4 cup (35g) sliced almonds
+- 2 tablespoons (30g) olive oil
+- 1 small onion (135g), chopped
 - 2 garlic cloves, finely chopped
-- 1 cup nonfat plain yogurt
-- 1/4 cup flat-leaf parsley leaves
-- 1 1/2 tablespoons lemon juice
+- 1 cup (240g) nonfat plain yogurt
+- 1/4 cup (15g) flat-leaf parsley leaves
+- 1 1/2 tablespoons (~23g) lemon juice
 - Salt and freshly ground black pepper
 
 ## Directions
