@@ -5,9 +5,9 @@ The stock makes the gravy.  Make your own stock.  This also freezes well.
 ## Ingredients
 
 - 4 tablespoons (1/2 stick) unsalted butter
-- 1 medium yellow onion, chopped (about 1 cup)
-- 1/2 carrot, peeled and chopped (about 1/3 cup)
-- 1 rib celery, chopped (about 1/2 cup)
+- 1 medium yellow onion, chopped (135g)(about 1 cup)
+- 1/2 carrot, peeled and chopped (40g)(about 1/3 cup)
+- 1 rib celery, chopped (85g)(about 1/2 cup)
 - 3 cloves garlic, minced
 - 1/3 cup flour (40g)
 - 4 cups beef stock (960g)
