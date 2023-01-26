@@ -5,9 +5,9 @@ I often double this to make 2 meatloafs; 1 to cook now and another to throw in t
 ## Ingredients
 
 - 2 tablespoons (30g) butter
-- 1 large yellow onion, finely chopped (? 143g) (about 1 1/4 cups)
-- 1 medium green bell pepper, finely diced (? ?g) (about 1 cup)
-- 1 large rib celery, finely diced (? ?g) (about 1/2 cup)
+- 1 large yellow onion, finely chopped (135g) (about 1 1/4 cups)
+- 1 medium green bell pepper, finely diced (120g) (about 1 cup)
+- 1 large rib celery, finely diced (85g) (about 1/2 cup)
 - 2 large eggs
 - 2 pounds 80 percent lean ground beef (I've used grass fed and higher lean no problem)
 - 2 teaspoons dried thyme
