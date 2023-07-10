@@ -1,5 +1,10 @@
 # Cleaning
 
+## Eyeglass Cleaner
+
+  - 3/4 isopropyl alcohol
+  - 1/4 distilled water 
+
 ## Mopping
 
 A good mix for cleaning the kitchen floor, etc.
