@@ -29,8 +29,8 @@ Amounts adjusted for portions
 | pasta | 225g | 337.5g | 450g |
 | salt | 1 tsp | 1.5 tsp | 2 tsp |
 | monterrey jack | 100g | 150g | 200g |
-| pecorino | 1.5 tbsp | 2.25 tbsp | 3 tbsp  |
-| corn startch | 100g | 150g | 200g |
+| pecorino | 125g | 180g | 250g |
+| corn starch | 1.5 tbsp | 2.25 tbsp | 3 tbsp  |
 | butter | 50g | 75g | 100g |
 
 
