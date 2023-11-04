@@ -26,7 +26,7 @@
    - Wash fish in cold water, check for bones, pat dry
    - On sheet pan, line with wrap, sprinkle 1/3 of curing mixture onto bottom of pan and lay fish skin side down
    - Sprinkle 1/3 of curing mixture on fish, lay second fillet flesh side down, cover with curing mix, cover with wrap, place second sheet pan on top, add weight to press fish into curing mix, refrigerate 1-2 hours
-   - Remove fish after 1-2 hours, drain, rinse thoroughly, pat dry, lay out to dri with fan blowing over to help dry for 1-3 hours
+   - Remove fish after 1-2 hours, drain, rinse thoroughly, pat dry, lay out to dry with fan blowing over to help dry for 1-3 hours
  - Smoking
    - Mix wet ingredients, spread over flesh side, place in smoker (skin side up or down?)
    - Mix wet ingredients, spread over flesh side, place in smoker (skin side up or down?)
