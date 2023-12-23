@@ -18,8 +18,18 @@ Make a double batch of this, and freeze the individually wrapped dough for futur
 - Turn dough out onto a wooden surface or silicon baking mat, pat into round shape and divide in half. Form each half into a disc about 5 inches wide.
 - Wrap each disc in plastic wrap and refrigerate for at least 30 minutes until ready to use.
 
+## Blind Bake
+
+- Oven at bake setting and temp to 425
+- Roll out pie dough and place in pie pan
+- Dock crust, prick with fork tines on bottom
+- Line with parchment paper and fill with pie weights, dried beans
+- Bake for 12 minutes
+- Remove parchment and pie weights and bake another 10 minutes
+
 ## Reference
 
 - https://foodwishes.blogspot.com/2010/03/easy-homemade-pie-crust-now-with-50.html
 - https://www.youtube.com/watch?v=e_3lBUMCRiA
 - https://www.allrecipes.com/recipe/220996/easy-homemade-pie-crust/
+- Blind bake - https://www.thekitchn.com/how-to-blind-bake-a-pie-crust-cooking-lessons-from-the-kitchn-197553
