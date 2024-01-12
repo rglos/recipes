@@ -2,7 +2,8 @@
 
  * 6 bone-in skin-on thighs
  * OR 1 whole chicken, cut in sections,
- * OR 4 pounds chicken thighs bone-in, skin-on
+ * OR 6 chicken thighs bone-in, skin-on
+ * OR 6 chicken thighs boneless - cook potatoes 20-25 min THEN add chicken
  * 3-4 russet potatoes, cut in quarters
  * 1 tablespoon kosher salt
  * 1 teaspoon freshly ground black pepper
@@ -27,4 +28,7 @@ Set oven to broil or highest heat setting. Toss potatoes once again in pan juice
 
 Place roasting pan on stove over medium heat. Add a splash of broth and stir up browned bits from the bottom of the pan. Strain; spoon juices over chicken and potatoes. Top with chopped oregano.
 
-From - [http://foodwishes.blogspot.com/2015/04/greek-lemon-chicken-and-potatoes-both.html](http://foodwishes.blogspot.com/2015/04/greek-lemon-chicken-and-potatoes-both.html)
+# References
+
+ - [http://foodwishes.blogspot.com/2015/04/greek-lemon-chicken-and-potatoes-both.html](http://foodwishes.blogspot.com/2015/04/greek-lemon-chicken-and-potatoes-both.html)
+ - https://www.allrecipes.com/recipe/242352/greek-lemon-chicken-and-potatoes/
