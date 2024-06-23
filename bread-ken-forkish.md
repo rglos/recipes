@@ -12,7 +12,6 @@
 | --- | --- | --- |
 | White Flour | 1,000 g | - |
 | Water | 780 g, 90 F to 95 F | - |
-| White Flour | 1,000 g | - |
 | Fine sea salt | 22 g | 1 tbsp + 1 tsp |
 | Yeast | 0.8 g | Scant 1/4 tsp |
 
