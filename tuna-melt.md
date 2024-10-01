@@ -49,4 +49,4 @@ Divide the cold tuna mix among 4 slices (about ½ cup each), schmearing it to co
 
 ## Reference
 
-- 
+- https://cooking.nytimes.com/recipes/1025844-golden-diners-tuna-melt
