@@ -19,7 +19,7 @@
  - Preheat oven to 400°F and bake pie shell on a baking sheet for 9-10 minutes. Remove from oven and allow to cool. Reduce oven temperature to 375°.
  - In a medium skillet over medium heat, melt butter. Add shallots and sauté 3-5 minutes . Add chard and stir for several minutes, until most of its water has cooked out.
  - In a medium mixing bowl, beat eggs, cream, salt, pepper and nutmeg. Place sautéed chard, meat, and about 2/3 of the cheese into the bottom of the pie shell. Pour in egg mixture. Sprinkle with the remaining cheese.
- - Bake in preheated oven for 25 - 30 minutes. The quiche is done when a knife plunged into the center comes out clean.
+ - Bake in preheated oven for 25 - 30 minutes.  This is not enough time - I typically add another 15 minutes or 45 total. The quiche is done when a knife plunged into the center comes out clean.
  
  ## Notes
  
