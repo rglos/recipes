@@ -1,5 +1,40 @@
 # Different baked Oatmeal ideas for breakfast
 
+## Bob's Baked Oatmeal Recipe
+
+This takes about 30 minutes of prep work and 1 hour to bake so 1.5 hours before you are eating.  Lots of ways to make this better - prep night before, reheat, smaller batches, etc.
+
+### Ingredients
+
+- In a small bowl combine:
+  - 2 cups (180g) Old Fashioned Rolled Oats Or Organic Regular Rolled Oats
+  - 1 tsp Baking Powder
+  - 1/2 tsp Salt
+  - 1/2 tsp Ground Cinnamon
+  - 1/4 tsp Ground Ginger
+  - 1/4 tsp Ground Nutmeg
+- In a large bowl combine
+  - 3 cups (720g) Water or Milk, Pear Juice, Apple Juice, Fruit Juice, Almond Milk, whatever you like
+  - 2 Eggs
+  - 1/2 cup (100g) Brown Sugar - or other sweetener (maple syrup, honey, dates, etc)
+  - 1/4 cup (1/2 stick, 60g) Butter melted and cooled
+  - 1 tsp Vanilla Extract
+  - 2 cup chopped fresh Pears about 2 whole
+    - All kinds of options here
+    - 2 cups (350g) of frozen strawberries from summer farmer's markets
+    - canned fruit
+    - frozen fruit
+    - fresh fruit
+
+### Directions
+
+- Preheat Oven to 350F
+- Butter a 9x9-inch baking dish and set aside.
+- In a small bowl, combine rolled oats, baking powder, salt, and spices. Set aside.
+- In a large bowl, whisk together water (or milk or juice), eggs, brown sugar, melted and cooled butter, and vanilla extract. 
+- Add oat mixture to the wet ingredients and mix to combine. Fold in fruit.
+- Transfer mixture to the prepared baking dish and bake until set, about 40 - 50 minutes. Let cool about 5 minutes before serving.
+
 ## Strawberry-Almond Baked Oatmeal
 
 ### Ingredients
@@ -51,6 +86,7 @@ TBD
 
 ## References
 
+- [Bob's Baked Pear Oatmeal](https://www.bobsredmill.com/recipes/how-to-make/baked-pear-oatmeal)
 - [Strawberry-Almond Baked Oatmeal](https://www.seriouseats.com/strawberry-almond-baked-oatmeal-recipe)
 - [Maple-Banana Baked Oatmeal](https://www.seriouseats.com/maple-banana-baked-oatmeal-recipe)
 - [Cinnamon-Apple Baked Oatmeal](https://www.seriouseats.com/cinnamon-apple-baked-oatmeal-recipe)
