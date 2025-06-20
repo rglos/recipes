@@ -35,6 +35,25 @@ This takes about 30 minutes of prep work and 1 hour to bake so 1.5 hours before 
 - Add oat mixture to the wet ingredients and mix to combine. Fold in fruit.
 - Transfer mixture to the prepared baking dish and bake until set, about 40 - 50 minutes. Let cool about 5 minutes before serving.
 
+### Ingredients (with scaled amounts)
+
+| Ingredient                        | Original         | 150%            | 200%            |
+|-----------------------------------|------------------|-----------------|-----------------|
+| **Small Bowl**                    |                  |                 |                 |
+| Old Fashioned Rolled Oats         | 2 cups (180g)    | 3 cups (270g)   | 4 cups (360g)   |
+| Baking Powder                     | 1 tsp            | 1.5 tsp         | 2 tsp           |
+| Salt                              | 1/2 tsp          | 3/4 tsp         | 1 tsp           |
+| Ground Cinnamon                   | 1/2 tsp          | 3/4 tsp         | 1 tsp           |
+| Ground Ginger                     | 1/4 tsp          | 3/8 tsp         | 1/2 tsp         |
+| Ground Nutmeg                     | 1/4 tsp          | 3/8 tsp         | 1/2 tsp         |
+| **Large Bowl**                    |                  |                 |                 |
+| Water/Milk/Juice/Almond Milk      | 3 cups (720g)    | 4.5 cups (1080g)| 6 cups (1440g)  |
+| Eggs                              | 2                | 3               | 4               |
+| Brown Sugar                       | 1/2 cup (100g)   | 3/4 cup (150g)  | 1 cup (200g)    |
+| Butter, melted and cooled         | 1/4 cup (60g)    | 3/8 cup (90g)   | 1/2 cup (120g)  |
+| Vanilla Extract                   | 1 tsp            | 1.5 tsp         | 2 tsp           |
+| Chopped fresh Pears               | 2 cups (about 350g) | 3 cups (about 525g)| 4 cups (about 700g)|
+
 ## Strawberry-Almond Baked Oatmeal
 
 ### Ingredients
