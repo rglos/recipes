@@ -8,7 +8,8 @@
 ## Directions
 
 1. Pour milk into a 6- to 8-quart Instant Pot. Seal the lid and press the Yogurt button until it reads “boil.” When the machine beeps, carefully remove the lid and use an instant-read thermometer to make sure the milk has reached 180 to 200 degrees.
-2. Prepare an ice bath in a very large bowl and have your instant-read thermometer at hand. Transfer the bowl of the Instant Pot to the ice bath. Stir the milk with a clean utensil until the temperature reaches 110 to 115 degrees. (This happens relatively quickly once the pot is in the ice bath.)
+2. Allow milk to cool to down to 110°F -115°F degrees F. This will take 1-2 hours if left alone, or speed up the process by placing the pot into a bowl of ice water for about 10-15 minutes. Check often with a thermometer.
+   - Prepare an ice bath in a very large bowl and have your instant-read thermometer at hand. Transfer the bowl of the Instant Pot to the ice bath. Stir the milk with a clean utensil until the temperature reaches 110 to 115 degrees. (This happens relatively quickly once the pot is in the ice bath.)
 3. Once the milk temperature drops to 110 to 115 degrees, dry the outside of the Instant Pot bowl and return it to its base. Discard any film that has collected on the surface of the milk. Stir in the 2 tablespoons yogurt culture until well blended. Seal the lid and set the Yogurt button for an 8-hour cycle.
 4. At the end of the 8-hour cycle, remove the lid and transfer the Instant Pot bowl to a wire rack. At this point, the milk will be a little looser than Jell-O; try to minimize the movement to allow it to set further. Cover the pot tightly with plastic wrap and cool on the rack at room temperature for 1 hour, then transfer the entire bowl to the refrigerator and chill for at least 6 hours or overnight.
 
@@ -21,3 +22,4 @@
 ### References
 
 - [Instant Pot Yogurt Recipe](https://cooking.nytimes.com/recipes/1026059-instant-pot-yogurt)
+- [Instant Pot Yogurt Recipe - Tastes Better from Scratch](https://tastesbetterfromscratch.com/instant-pot-yogurt/)
