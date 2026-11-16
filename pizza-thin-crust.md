@@ -50,6 +50,40 @@
 - If they puff at all during curing, you can push any bubbles with a fork and push them down to flatten them.
 
 
+## Chicago-Style Italian Sausage
+
+- 1 tablespoon whole dried fennel seeds
+- 1 pound ground pork shoulder
+- 4 medium garlic cloves, finely minced
+- 7 grams salt (about 2 teaspoons Diamond Crystal kosher salt, 1 ½ teaspoons Morton’s coarse kosher salt or 1 teaspoon table salt)
+- 2 teaspoons garlic powder
+- 2 teaspoons dried oregano
+- 1 teaspoon dried marjoram
+- ½ teaspoon ground black pepper
+- Large pinch of red-pepper flakes
+
+### Preparation
+
+- Heat the fennel seeds in a dry skillet over medium heat, stirring frequently, until lightly toasted and very aromatic. Transfer to a mortar and pestle or spice grinder and lightly crush.
+- Combine the pork, fresh garlic, salt, garlic powder, oregano, marjoram, black pepper, pepper flakes, and toasted fennel in a large bowl. Knead aggressively with your hands until the mixture turns tacky and leaves a film behind on the bowl, a couple of minutes. (Alternatively, make the sausage in a stand mixer fitted with a paddle attachment. Knead the mixture at low speed until it forms a film on the inside of the bowl as instructed in Step 2.) Transfer to a sealed container and store in the refrigerator for up to 1 week until ready to use. You will have enough for 2 pizzas.
+
+## Pizza Sauce for Chicago Thin-Crust Pizza
+
+- 1 (28-ounce) can whole peeled tomatoes with their juices
+- 1 (6-ounce) can tomato paste
+- 4 medium garlic cloves, minced
+- 2 tablespoons extra-virgin olive oil
+- 2 tablespoons dried Italian seasoning (see Tip)
+- 1 tablespoon granulated sugar, or to taste
+- 2 teaspoons red-wine vinegar, or to taste
+- 2 teaspoons garlic powder
+- 1 teaspoon kosher salt (such as Diamond Crystal)
+
+### Preparation
+
+- Combine all ingredients in a blender or food processor, and pulse until mostly smooth but a few small bits of tomato remain. Store in a sealed container in the refrigerator for up to 1 week.
+- Dried Italian seasoning is important here, as is garlic powder. If you prefer, you can use a mixture of any or all of oregano, marjoram, thyme, basil, parsley and rosemary, dried or fresh, in place of the Italian seasoning.
+
 ## References
 
 - [NY Times - thin crust pizza dough](https://cooking.nytimes.com/recipes/1024060-chicago-thin-crust-tavern-style-pizza-dough)
